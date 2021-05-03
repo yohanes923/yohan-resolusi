@@ -3,6 +3,7 @@ rencana konten wpu
 - javascript
  *ES 6
  *FRAMEWORK
+   ^react
    ^Vue
  - fundamental struktur data
 - php framework
