@@ -3,7 +3,10 @@ rencana konten wpu
 - javascript
  *ES 6
  *FRAMEWORK
+   ^Vue
  - fundamental struktur data
 - php framework
+   ^laravel
 - interview
 - vlog
+- Phyton
